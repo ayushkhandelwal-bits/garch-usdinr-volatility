@@ -1,0 +1,14 @@
+# R specific
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Rapp.history
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output/temp
+*.log
+/output/
